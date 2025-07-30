@@ -1,0 +1,13 @@
+streamlit
+pandas
+seaborn
+pdfplumber
+plotly
+response
+fastapi
+requests
+uvicorn
+scikit-learn
+numpy
+matplotlib
+jwt
