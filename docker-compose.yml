@@ -1,0 +1,10 @@
+version: '3.13.5'
+
+services:
+  visualizer:
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app
+    restart: always
